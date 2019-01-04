@@ -1,3 +1,6 @@
+//! version 1.0 31DEC2018  DIME Analytics bbdaniels@gmail.com
+
+// makeid - Stata module to create a unique ID for every observation in the dataset.
 
 cap prog drop makeid
 prog def makeid
