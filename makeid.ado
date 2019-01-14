@@ -7,6 +7,8 @@ prog def makeid
 
 syntax anything , GENerate(string asis) PROJECT(string asis)
 
+version 13.1
+
 	// Check these variables are unique
 	isid `anything' , sort
 
